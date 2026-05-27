@@ -1,21 +1,276 @@
-# 💫 About Me:
-I am a B.Tech Student in Computer Science and Engineering.<br>Currently learning about AI and working on making my life autonomously 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,25:0d0d2b,50:1a0a3d,75:0a1628,100:050510&height=280&section=header&text=CODY%20ABHI&fontSize=75&fontColor=00e5ff&animation=twinkling&fontAlignY=40&desc=◈%20Full%20Stack%20Developer%20◈%20Code%20Architect%20◈%20Tech%20Visionary%20◈&descSize=16&descAlignY=60&descAlign=50&stroke=00e5ff&strokeWidth=2" width="100%"/>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhi._sriv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhinav-srivastava-96a760326/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Abhinav-Srivastava-the-animator) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhi.sriv2787@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=%E2%96%B8+INITIALIZING+DEVELOPER+PROFILE...+%E2%96%B8;%E2%96%B8+LOADING+CREATIVE+INTELLIGENCE...+100%25+%E2%96%B8;%E2%96%B8+FULL+STACK+ARCHITECT+ONLINE+%E2%96%B8;%E2%96%B8+CRAFTING+THE+FUTURE+OF+THE+WEB+%E2%96%B8;%E2%96%B8+COFFEE+%E2%86%92+CODE+%E2%86%92+CONQUER+%E2%96%B8" alt="Typing Animation" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cody-Abhi&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Cody-Abhi&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cody-Abhi&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Profile Views](https://komarev.com/ghpvc/?username=Cody-Abhi&label=◈+PROFILE+VIEWS&color=00e5ff&style=for-the-badge&labelColor=050510)](https://github.com/Cody-Abhi)
+[![GitHub followers](https://img.shields.io/github/followers/Cody-Abhi?label=◈+FOLLOWERS&style=for-the-badge&color=7b2ff7&labelColor=0d0d2b)](https://github.com/Cody-Abhi?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Cody-Abhi?label=◈+STARS&style=for-the-badge&color=ff0080&labelColor=0a1628)](https://github.com/Cody-Abhi)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Cody-Abhi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   ██████╗ ██████╗ ██████╗ ██╗   ██╗      █████╗ ██████╗ ██╗  ██╗██╗   ║
+║  ██╔════╝██╔═══██╗██╔══██╗╚██╗ ██╔╝     ██╔══██╗██╔══██╗██║  ██║██║   ║
+║  ██║     ██║   ██║██║  ██║ ╚████╔╝      ███████║██████╔╝███████║██║   ║
+║  ██║     ██║   ██║██║  ██║  ╚██╔╝       ██╔══██║██╔══██╗██╔══██║██║   ║
+║  ╚██████╗╚██████╔╝██████╔╝   ██║        ██║  ██║██████╔╝██║  ██║██║   ║
+║   ╚═════╝ ╚═════╝ ╚═════╝    ╚═╝        ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## ◈ SYSTEM STATUS
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="33%">
+
+```yaml
+status: ONLINE 🟢
+mode: BUILDING
+caffeine: ████████░░ 80%
+creativity: ██████████ 100%
+bugs: 0 (allegedly)
+```
+
+</td>
+<td align="center" width="33%">
+
+```yaml
+location: Earth 🌍
+focus: Full Stack Dev
+open_to: Collaboration
+learning: Always
+motto: "Ship it. 🚀"
+```
+
+</td>
+<td align="center" width="33%">
+
+```yaml
+commits_today: ∞
+lines_written: 9000+
+coffee_consumed: ███████
+stack_overflow: tabs open
+git_push: --force 😅
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ◈ ABOUT THE DEVELOPER
+
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+```javascript
+const CodyAbhi = {
+  pronouns    : "he/him",
+  location    : "Earth 🌍",
+  currentWork : "Building epic projects 🔥",
+  learning    : ["System Design", "DevOps", "AI/ML"],
+  hobbies     : ["Coding", "Open Source", "Coffee ☕"],
+
+  askMeAbout  : [
+    "Web Dev 🌐", "APIs 🔌",
+    "Databases 🗄️", "DevOps 🔧",
+    "Architecture 🏗️"
+  ],
+
+  techStack   : {
+    frontend  : ["React", "Next.js", "TypeScript"],
+    backend   : ["Node.js", "Express", "Python"],
+    database  : ["MongoDB", "PostgreSQL", "Redis"],
+    devops    : ["Docker", "AWS", "GitHub Actions"]
+  },
+
+  funFact     : "I debug with console.log and I'm NOT sorry.",
+  superpower  : "Turning caffeine into working software ⚡"
+};
+```
+
+<br clear="right"/>
+
+---
+
+## ◈ TECHNOLOGY ARSENAL
+
+<div align="center">
+
+### ► LANGUAGES
+[![Skills](https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,go,html,css&theme=dark&perline=9)](https://github.com/Cody-Abhi)
+
+### ► FRAMEWORKS & LIBRARIES
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,django,tailwind,redux,graphql&theme=dark&perline=9)](https://github.com/Cody-Abhi)
+
+### ► DATABASES & CLOUD
+[![Skills](https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,firebase,aws,gcp,azure,supabase&theme=dark&perline=9)](https://github.com/Cody-Abhi)
+
+### ► DEVOPS & TOOLS
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,linux,nginx,vite,webpack&theme=dark&perline=9)](https://github.com/Cody-Abhi)
+
+</div>
+
+---
+
+## ◈ PERFORMANCE METRICS
+
+<div align="center">
+
+<a href="https://github.com/Cody-Abhi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cody-Abhi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050510&title_color=00e5ff&icon_color=7b2ff7&text_color=ffffff&ring_color=ff0080&border_radius=10&custom_title=◈+GITHUB+STATS"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cody-Abhi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00e5ff&text_color=ffffff&border_radius=10&custom_title=◈+TOP+LANGUAGES"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Cody-Abhi&theme=tokyonight&hide_border=true&background=050510&stroke=00e5ff&ring=7b2ff7&fire=ff0080&currStreakNum=00e5ff&sideNums=ffffff&currStreakLabel=7b2ff7&sideLabels=ffffff&dates=888888&border_radius=10)](https://github.com/Cody-Abhi)
+
+</div>
+
+---
+
+## ◈ ACHIEVEMENT TROPHIES
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Cody-Abhi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/Cody-Abhi)
+
+</div>
+
+---
+
+## ◈ CONTRIBUTION MATRIX
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cody-Abhi&theme=tokyo-night&bg_color=050510&color=00e5ff&line=7b2ff7&point=ff0080&area=true&area_color=1a0a3d&hide_border=true&custom_title=◈+CONTRIBUTION+ACTIVITY+GRAPH)](https://github.com/Cody-Abhi)
+
+</div>
+
+---
+
+## ◈ CONTRIBUTION SERPENT
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## ◈ CURRENTLY BUILDING
+
+<div align="center">
+
+<table border="0" cellspacing="10" cellpadding="10">
+<tr>
+<td align="center" width="50%">
+
+### 🔭 Working On
+```
+▸ Next-gen web applications
+▸ Open source contributions
+▸ Personal AI projects
+▸ Developer tools & utilities
+```
+
+</td>
+<td align="center" width="50%">
+
+### 🌱 Learning Now
+```
+▸ Advanced System Design
+▸ Cloud Architecture (AWS)
+▸ Machine Learning fundamentals
+▸ Rust for systems programming
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ◈ RANDOM DEV JOKE
+
+<div align="center">
+
+[![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=050510&textColor=00e5ff&qColor=7b2ff7&aColor=ffffff&borderColor=00e5ff)](https://github.com/Cody-Abhi)
+
+</div>
+
+---
+
+## ◈ CONNECT ACROSS THE MATRIX
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-◈_CONNECT-00e5ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1628)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-◈_FOLLOW-7b2ff7?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d2b)](https://twitter.com/your-twitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-◈_VISIT-ff0080?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0a3d)](https://your-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-◈_CONTACT-00e5ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1628)](mailto:your-email@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-◈_CHAT-7b2ff7?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d2b)](https://discord.com/users/your-discord)
+[![Dev.to](https://img.shields.io/badge/Dev.to-◈_READ-ff0080?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=1a0a3d)](https://dev.to/your-devto)
+
+<br/>
+
+```
+  ╭──────────────────────────────────────────────────────╮
+  │                                                      │
+  │   "Any sufficiently advanced technology is           │
+  │    indistinguishable from magic." — Arthur C. Clarke │
+  │                                                      │
+  │    ... I write the magic. ✨                         │
+  │                                                      │
+  ╰──────────────────────────────────────────────────────╯
+```
+
+<br/>
+
+### Thanks for visiting! Drop a ⭐ if you like what you see.
+
+[![Visitors Wave](https://capsule-render.vercel.app/api?type=waving&color=0:050510,25:0d0d2b,50:1a0a3d,75:0a1628,100:050510&height=120&section=footer&text=&fontSize=0)](https://github.com/Cody-Abhi)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>⚡ Auto-updated daily | Built with ❤️ and excessive amounts of ☕</sub>
+
+</div>
