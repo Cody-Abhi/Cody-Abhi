@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=200&section=header&text=Abhi&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=200&section=header&text=Abhinav&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Full-Stack+AI+Products+%F0%9F%9A%80;React+%7C+Next.js+%7C+FastAPI+%7C+Supabase;B.Tech+CSE+%40+SRMCEM%2C+Lucknow+%F0%9F%8E%93)](https://git.io/typing-svg)
 
@@ -18,8 +18,8 @@
 ## 👨‍💻 About Me
 
 ```typescript
-const abhi = {
-  name:       "Abhi",
+const abhinav = {
+  name:       "Abhinav",
   role:       "Full Stack Developer",
   college:    "SRMCEM, Lucknow  |  B.Tech CSE (2024–2028)",
   experience: "Intern @ SRDT Pvt. Ltd.  |  Full-Stack + Python",
@@ -66,20 +66,7 @@ const abhi = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🤖 TalentOS — AI Hiring OS
-> *Full-featured AI-powered recruitment platform*
-
-An end-to-end hiring operating system targeting the Indian market — candidate discovery, skill assessments, automated screening, AI video interviews, fraud detection, and HR analytics.
-
-**Stack:** React 19 · Next.js 15 · FastAPI · Supabase · Gemini 2.5 Flash · LangChain · FAISS · Judge0 · shadcn/ui
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-</td>
 <td width="50%" valign="top">
 
 ### ♻️ CarbonPilot AI — Sustainability Platform
