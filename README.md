@@ -198,9 +198,6 @@ End-to-end credit delinquency risk analysis built as part of the Tata Data Analy
 ✅  Complete Tata Data Analytics Programme
 ✅  Build AI-powered projects for portfolio
 🔄  Land a full-stack internship
-🔄  Top 5 at Smart India Hackathon (SIH) 2025
-🔄  Publish first npm / PyPI package
-⬜  Contribute to an open-source AI project
 ⬜  Build a SaaS product with 100+ users
 ```
 
