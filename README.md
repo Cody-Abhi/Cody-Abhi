@@ -1,221 +1,361 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=200&section=header&text=Abhinav&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" />
+# Abhinav Srivastava
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Full-Stack+AI+Products+%F0%9F%9A%80;React+%7C+Next.js+%7C+FastAPI+%7C+Supabase;B.Tech+CSE+%40+SRMCEM%2C+Lucknow+%F0%9F%8E%93)](https://git.io/typing-svg)
+### Full-Stack Developer · AI/ML Builder · Software Engineering Student
 
-<br/>
+Building practical software across **web development, backend systems, AI integrations, and developer tools**.
 
-[![GitHub followers](https://img.shields.io/github/followers/Cody-Abhi?label=Followers&style=for-the-badge&color=6366f1&labelColor=1e1e2e)](https://github.com/Cody-Abhi)
-[![Profile Views](https://komarev.com/ghpvc/?username=Cody-Abhi&label=Profile+Views&style=for-the-badge&color=8b5cf6&labelColor=1e1e2e)](https://github.com/Cody-Abhi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&labelColor=1e1e2e)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-Cody--Abhi-181717?style=for-the-badge\&logo=github)](https://github.com/Cody-Abhi)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abhi.sriv2787@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Cody-Abhi\&style=for-the-badge\&color=6366f1\&label=PROFILE+VIEWS)](https://github.com/Cody-Abhi)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-```typescript
-const abhinav = {
-  name:       "Abhinav",
-  role:       "Full Stack Developer",
-  college:    "SRMCEM, Lucknow  |  B.Tech CSE (2024–2028)",
-  experience: "Intern @ SRDT Pvt. Ltd.  |  Full-Stack + Python",
-  focus:      ["AI-powered Products", "Web Development", "Hackathons"],
-  aiTools:    ["Claude", "Gemini 2.5 Flash", "ChatGPT", "LangChain"],
-  location:   "Lucknow, Uttar Pradesh 🇮🇳",
-  motto:      "Ship fast. Learn faster. Build things that matter.",
-};
+I’m **Abhinav Srivastava**, a Computer Science Engineering student at **SRMCEM, Lucknow**, focused on building software that solves practical problems.
+
+My work sits at the intersection of:
+
+* **Full-stack web development**
+* **Backend engineering and APIs**
+* **AI/LLM-powered applications**
+* **Data and machine-learning workflows**
+* **Developer tools and engineering systems**
+
+I enjoy taking an idea from **problem definition → architecture → implementation → testing → deployment**.
+
+I’m currently working as a **Software Development Intern at SRDT Pvt. Ltd.**, while continuing to build and contribute to technical projects independently and through open source.
+
+### What I care about
+
+```text
+Build useful software.
+Understand the engineering behind it.
+Write maintainable code.
+Test what I ship.
+Learn from every project.
 ```
-
-- 🎯 Currently building a **full-stack Zomato Clone** with React, Express & MySQL
-- 🤖 Passionate about integrating **AI/LLM pipelines** into real-world products
-- 🏆 Active hackathon participant — **SIH 2025** competitor
-- 📊 Completed the **Tata Data Analytics Programme** and multiple job simulations
-- 🌱 Always exploring: **RAG, FAISS, multi-agent systems, and edge AI**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technical Skills
 
-<div align="center">
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css&theme=dark)](https://skillicons.dev)
 
-### Backend & Databases
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,mysql,supabase,firebase&theme=dark)](https://skillicons.dev)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
-### AI / ML & Tools
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,git,github,vscode,linux,figma&theme=dark)](https://skillicons.dev)
+### Backend & APIs
 
-**AI/LLM Stack:**
-![Gemini](https://img.shields.io/badge/Gemini%202.5%20Flash-4285F4?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS%20RAG-FF6B35?style=flat-square&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Judge0](https://img.shields.io/badge/Judge0-00D4AA?style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
 
-</div>
+### Databases & Infrastructure
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
 
-## 🚀 Featured Projects
+### AI / Data
 
-<table>
-<tr>
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square\&logo=google\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
+![RAGAS](https://img.shields.io/badge/RAGAS-6366F1?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 
-<td width="50%" valign="top">
+### Engineering Tools
 
-### ♻️ CarbonPilot AI — Sustainability Platform
-> *AI-driven carbon tracking & green advisory tool*
-
-Full-stack sustainability platform that tracks carbon footprint in real-time, generates AI-powered green recommendations, and provides actionable insights for individuals and organizations.
-
-**Stack:** React 19 · TypeScript · Vite · Firebase · Gemini 2.5 Flash
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌿 EcoLoop — Carbon Footprint Tracker
-> *Personal sustainability tracker on GCP free tier*
-
-Lightweight personal carbon tracker built on GCP free-tier budget. Uses Vertex AI Gemini 2.5 Flash via Cloud Run for intelligent eco-suggestions and habit tracking.
-
-**Stack:** React · Vite · Firebase · Vertex AI Gemini · Cloud Run
-
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ FlowPilot AI — Multi-Agent SaaS
-> *Autonomous agent orchestration platform*
-
-A multi-agent SaaS platform featuring a "Neural Command Bridge" UI. Uses LangChain agents with FAISS RAG retrieval for context-aware, autonomous workflow automation.
-
-**Stack:** FastAPI · Supabase · FAISS RAG · Gemini 2.5 Flash · LangChain · Python
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍕 Zomato Clone — Full-Stack Food App
-> *Production-grade food delivery platform*
-
-A pixel-faithful Zomato clone with a complete MVC backend, real-time restaurant/menu browsing, cart management, order flow, and full REST API — built for internship readiness.
-
-**Stack:** React · TailwindCSS · Axios · Express.js · MySQL · MVC Architecture
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Geldium Credit Risk Model
-> *XGBoost-based delinquency prediction system*
-
-End-to-end credit delinquency risk analysis built as part of the Tata Data Analytics Programme. Includes EDA, XGBoost predictive modeling, and an executive stakeholder summary report.
-
-**Stack:** Python · XGBoost · Pandas · Scikit-learn · Matplotlib
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
 ---
 
-## 📜 Certifications & Training
+# 🚀 Selected Projects
 
-<div align="center">
+## ⚔️ CodeArena
 
-| 🏅 Certification | 🏢 Issuer | 🔖 Domain |
-|:---|:---|:---|
-| Data Analytics Job Simulation | Deloitte Australia | Data Analytics |
-| Advanced Software Engineering Job Simulation | Walmart USA | System Design & Engineering |
-| App Operable Car — Centrado Kit | Infosys | Automotive Tech |
-| Bring AI to Work Workshop | Google | AI/ML |
-| AI Tools Workshop | Be10x | AI Productivity |
-| Data Analytics Programme | Tata Group | Analytics & ML |
+**A GitHub-powered competitive coding platform**
 
-</div>
+A full-stack coding platform combining online judging, organization management, gamification, rankings, discussions, and GitHub portfolio synchronization.
 
----
+**Engineering highlights**
 
-## 📊 GitHub Stats
+* Multi-tenant organization architecture
+* RBAC for organization roles
+* React + TypeScript frontend
+* Express + TypeScript backend
+* Prisma + PostgreSQL data layer
+* Redis + BullMQ infrastructure
+* JWT authentication with refresh-token rotation
+* Monaco-based coding workspace
+* Online code judging pipeline
+* XP, ranks, achievements, streaks and leaderboards
+* GitHub portfolio synchronization
 
-<div align="center">
+### My contribution
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cody-Abhi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cody-Abhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8"/>
+Implemented and completed a major MVP milestone covering:
 
-</div>
+* Rank, achievement and notification backend services
+* XP and streak logic
+* Ranking and achievement APIs
+* Multiple frontend feature pages
+* Problem creation workflow
+* Judge improvements
+* Architecture consistency across Route → Controller → Service → Repository
+* UI/design system improvements
+* End-to-end validation of the submission → XP → badge → leaderboard flow
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cody-Abhi&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=06b6d4&currStreakLabel=6366f1)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Abhi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Cody-Abhi&bg_color=0d1117&color=6366f1&line=8b5cf6&point=06b6d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cody-Abhi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+**Repository:**
+https://github.com/Cody-Abhi/CodeArena
 
 ---
 
-## 🎯 2025 Goals
+## 🆘 CrisisBridge
 
+**Real-time emergency coordination platform**
+
+CrisisBridge connects guests, responders and administrators through a real-time emergency workflow.
+
+### Core capabilities
+
+* One-tap SOS workflows
+* Role-based emergency routing
+* Real-time alerts
+* Incident-specific communication
+* Firebase Realtime Database for live events
+* Firestore for persistent incident records
+* AI-assisted emergency guidance
+* Administrative incident dashboard
+* Incident lifecycle tracking
+
+### Engineering focus
+
+The project uses a hybrid Firebase architecture where real-time events and persistent audit records are handled separately.
+
+I also implemented a backend security improvement that moved direct database writes into **Firebase Cloud Functions**, improving control over server-side database operations.
+
+**Repository:**
+https://github.com/Cody-Abhi/CrisisBridge
+
+**Live Demo:**
+https://crisisbridgev1.web.app/
+
+---
+
+## 🌱 CarbonPilot AI
+
+**AI-powered sustainability and carbon tracking platform**
+
+A full-stack application for tracking carbon-related activities and generating AI-assisted sustainability recommendations.
+
+### Highlights
+
+* Carbon footprint tracking
+* Category-level analytics
+* AI sustainability assistant
+* Behaviour-oriented recommendations
+* Scenario-based impact simulation
+* Gamification and progress tracking
+* Firebase authentication and data storage
+* React + TypeScript frontend
+* Express backend
+* Google Gemini integration
+
+**Repository:**
+https://github.com/Cody-Abhi/CarbonPliot-AI
+
+---
+
+## 🍕 Zomato Clone
+
+**Full-stack food delivery application**
+
+A full-stack food delivery project built as a practical exercise in frontend/backend integration and API-driven architecture.
+
+### Stack
+
+* React + Vite
+* Node.js
+* Express
+* MySQL
+* REST APIs
+* Frontend/backend separation
+* Deployment-ready configuration for Vercel + Railway
+
+**Repository:**
+https://github.com/Cody-Abhi/Zomato-Clone
+
+---
+
+# 🔬 Open Source & Engineering Contributions
+
+### LawSathi-Rag
+
+Contributing to an open-source legal RAG project with improvements to **RAGAS evaluation reliability and reporting**.
+
+The contribution focuses on:
+
+* Explicit LLM configuration
+* Separate embedding-model configuration
+* RAGAS compatibility handling
+* Timeout/retry/concurrency configuration
+* Better exception reporting
+* Preserving evaluation metrics during failures
+* Handling empty/invalid chart data
+* Focused automated tests
+
+**Contribution:**
+https://github.com/SidakSethi-Singh/LawSathi-Rag/pull/74
+
+---
+
+# 💼 Experience
+
+### Software Development Intern — SRDT Pvt. Ltd.
+
+Working across software development tasks with a focus on:
+
+* Full-stack development
+* Python-based development
+* Backend/API workflows
+* Practical engineering and problem solving
+
+---
+
+# 🎓 Education
+
+### B.Tech — Computer Science & Engineering
+
+**SRMCEM, Lucknow**
+2024 – 2028
+
+---
+
+# 📈 Engineering Approach
+
+I prefer projects where I can work through the complete engineering lifecycle:
+
+```text
+Problem
+   ↓
+Requirements
+   ↓
+Architecture
+   ↓
+Implementation
+   ↓
+Integration
+   ↓
+Testing
+   ↓
+Deployment
+   ↓
+Iteration
 ```
-✅  Complete Tata Data Analytics Programme
-✅  Build AI-powered projects for portfolio
-🔄  Land a full-stack internship
-⬜  Build a SaaS product with 100+ users
-```
+
+My goal is not simply to make a demo work.
+
+I want to understand **why the system works, where it can fail, and how it can be improved**.
 
 ---
 
-## 🤝 Let's Connect
+# 🧠 Current Focus
+
+Currently exploring and strengthening my skills in:
+
+* AI-powered application architecture
+* RAG and evaluation systems
+* Full-stack product development
+* Backend engineering
+* API design
+* Real-time applications
+* Database design
+* Software testing and reliability
+* Open-source collaboration
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cody-Abhi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Cody-Abhi&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<br/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cody-Abhi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
-> *"The best way to predict the future is to build it."*
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer" />
+---
+
+# 🏅 Training & Certifications
+
+| Program / Certification                      | Organization       | Area                 |
+| -------------------------------------------- | ------------------ | -------------------- |
+| Data Analytics Job Simulation                | Deloitte Australia | Data Analytics       |
+| Advanced Software Engineering Job Simulation | Walmart USA        | Software Engineering |
+| Data Analytics Programme                     | Tata Group         | Data & Analytics     |
+| Bring AI to Work Workshop                    | Google             | AI / Productivity    |
+| AI Tools Workshop                            | Be10x              | AI / Productivity    |
+| App Operable Car — Centrado Kit              | Infosys            | Technology           |
+
+---
+
+# 🎯 What I'm Looking For
+
+I’m interested in opportunities where I can contribute to **software engineering, full-stack development, backend systems, AI-powered applications, and developer-focused products**.
+
+I value environments where I can:
+
+* Work on real engineering problems
+* Learn from experienced developers
+* Contribute to production-quality systems
+* Take ownership of features
+* Continuously improve my technical depth
+
+---
+
+# 🤝 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Cody--Abhi-181717?style=for-the-badge\&logo=github)](https://github.com/Cody-Abhi)
+
+[![Email](https://img.shields.io/badge/Email-abhi.sriv2787%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abhi.sriv2787@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Build → Learn → Improve → Repeat
+
+⭐ Thanks for visiting my profile.
 
 </div>
